@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API.SignalR", "API.SignalR\API.SignalR.csproj", "{D479DC14-A25E-4BF9-B769-83697482F7C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API.RabbitMQ", "API.RabbitMQ\API.RabbitMQ.csproj", "{D6C74007-153D-45C2-9ECD-52DCA713E35E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D479DC14-A25E-4BF9-B769-83697482F7C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D479DC14-A25E-4BF9-B769-83697482F7C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D479DC14-A25E-4BF9-B769-83697482F7C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D479DC14-A25E-4BF9-B769-83697482F7C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6C74007-153D-45C2-9ECD-52DCA713E35E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6C74007-153D-45C2-9ECD-52DCA713E35E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6C74007-153D-45C2-9ECD-52DCA713E35E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6C74007-153D-45C2-9ECD-52DCA713E35E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFC09DC0-B2FA-4642-962A-4498D0191975}
+	EndGlobalSection
+EndGlobal
